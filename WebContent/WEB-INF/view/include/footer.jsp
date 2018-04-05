@@ -1,0 +1,1 @@
+<h6>Thanks for using Contact Application<br><a target="_blank" href="https://www.google.co.in/">Google</a></h6>
